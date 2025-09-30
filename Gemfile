@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", '~>4.3.4'
+gem "jekyll"
 gem "jekyll-theme-so-simple"
 
 group :jekyll_plugins do
