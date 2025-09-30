@@ -135,7 +135,6 @@ footer_links:
     icon: fab fa-youtube
 
 jekyll-minifier:
-  compress_css: false
   exclude:
     - "robots.txt"
     - "atom.xml"
