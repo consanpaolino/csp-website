@@ -37,7 +37,7 @@ Nove squadre facenti parte della [LITAB](https://www.litab.net/) hanno gareggiat
 * Secondo et meliore: **Bianconi Roberta** di Gualdo Tadino - Waldum
 * Terzo et meliore: **Montagna Antonio** di Terra del Sole
 
-[Classifica dettagliata della VII disfida in formato PDF](/assets/files/2025/csp-vii(2025)-disfida-della-libertà-classifica.pdf)
+[Classifica dettagliata della VII disfida in formato PDF](/assets/files/2025/csp-vii(2025)-disfida-della-liberta-classifica.pdf)
 
 ### Foto premiazione VII disfida
 

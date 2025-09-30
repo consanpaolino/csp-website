@@ -25,4 +25,4 @@ Alle 15,30, dopo il sorteggio che ha decretato l'ordine di tiro, è iniziata la 
 * secondo et meliore **Livio Bruno** di Prarostino-Roccapiatta
 * terzo et meliore **Lino Pavi** di Assisi
 
-Scarica la classifica completa in formato [💾 PDF](/assets/files/2023/classifica-5-disfida-libertà.pdf).
+Scarica la classifica completa in formato [💾 PDF](/assets/files/2023/classifica-5-disfida-liberta.pdf).
