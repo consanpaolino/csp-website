@@ -39,4 +39,4 @@ Nel pomeriggio si è poi disputata una gara di tiro a squadra su bersaglio a 5 e
 * Secondo et meliore **Barsanti Giovanni** di Lucca (CSP)
 * Terzo et meliore **Proietti Gianluca** di Amelia
 
-[Scarica la classifica dettagliata in formato PDF](/assets/files/2024/risultati-disfida-libertà-6.pdf).
+[Scarica la classifica dettagliata in formato PDF](/assets/files/2024/risultati-disfida-liberta-6.pdf).
