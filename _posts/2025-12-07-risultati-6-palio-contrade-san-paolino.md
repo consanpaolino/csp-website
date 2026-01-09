@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "🎯 La contrada della Luna vince VI Palio delle Contrade"
-image: /assets/images/2025/palio5-contrade/230521-palio5-banner.jpg
+image: /assets/images/2025/pdc6-group.webp
 categories:
   - albo
 author:
