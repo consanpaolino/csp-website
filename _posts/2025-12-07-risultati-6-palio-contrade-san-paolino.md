@@ -12,7 +12,7 @@ author:
 
 <!-- more -->
 
-E' stata una stagione intensa piena di buoni risultati ma anche di cocenti sconfitte: si sa, non si può vincere sempre, ma quello che conta è avere un gruppo unito dal sano agonismo, pronto a consolare il compagno che sbaglia il tiro e a scherzare in maniera goliardica sui risultati di ogni uno senza alcuna malizia.
+È stata una stagione intensa piena di buoni risultati ma anche di cocenti sconfitte: si sa, non si può vincere sempre, ma quello che conta è avere un gruppo unito dal sano agonismo, pronto a consolare il compagno che sbaglia il tiro e a scherzare in maniera goliardica sui risultati di ogni uno senza alcuna malizia.
 
 Ma veniamo alla cronaca: i balestrieri ritrovati al campo tiro a Pontetetto si sono sfidati per il VI Palio delle Contrade su tre tiri in bersaglio Litab. Ha avuto la meglio **Bianchini Francesco** che ha portato alla vittoria la contrada della **Luna**, secondo Giovanni Barsanti, terzo Lazzarin Loris e quarto Tolomei Mauro tutti e tre della contrada del Granchio.
 
