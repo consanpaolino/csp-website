@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎯 La contrada della Luna vince VI Palio delle Contrade"
+title: "🎯 La contrada della Luna vince il VI Palio delle Contrade"
 image: /assets/images/2025/pdc6-group.webp
 categories:
   - albo
