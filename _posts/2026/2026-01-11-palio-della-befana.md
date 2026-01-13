@@ -29,7 +29,7 @@ Inizialmente previsto per domenica 4, l’evento è stato posticipato di una set
   <figcaption>Balestrieri al palio della Befana 2026</figcaption>
 </figure>
 
-I partecipanti sono stati suddivisi in quattro batterie. Dopo un tiro di prova sul centro del bersaglio a cinque, ogni balestriere ha scagliato quattro verrette, una per ogni bersaglio agli angoli. Al termine delle qualificazioni, sommmati i punteggi per ciascuno, il miglior punteggio di ogni blocco ha decretato i quattro finalisti, i quali si sono sfidati in un ultimo tiro decisivo.
+I partecipanti sono stati suddivisi in quattro batterie. Dopo un tiro di prova sul centro del bersaglio a cinque, ogni balestriere ha scagliato quattro verrette, una per ogni bersaglio agli angoli. Al termine delle qualificazioni, sommati i punteggi per ciascuno, il miglior punteggio di ogni blocco ha decretato i quattro finalisti, i quali si sono sfidati in un ultimo tiro decisivo.
 
 <figure class="align-center">
     <img src="/assets/images/2026/2026-csp-palio-befana-3.webp" alt="palio della Befana 2026">
