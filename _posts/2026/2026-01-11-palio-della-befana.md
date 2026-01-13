@@ -8,7 +8,7 @@ author:
   name: Giampaolo Russo
 ---
 
-**Domenica 11 Gennaio** si è disputato il palio della Bafana del 2026.
+**Domenica 11 Gennaio** si è disputato il palio della Befana del 2026.
 
 <!-- more -->
 
@@ -29,7 +29,7 @@ Inizialmente previsto per domenica 4, l’evento è stato posticipato di una set
   <figcaption>Balestrieri al palio della Befana 2026</figcaption>
 </figure>
 
-I partecipanti sono stati suddivisi in quattro batterie. Dopo un tiro di prova sul centro del bersaglio a cinque, ogni balestriere ha scagliato quattro verrette, una per ogni angolo. Al termine delle qualificazioni, il miglior punteggio di ogni blocco ha decretato i quattro finalisti, i quali si sono sfidati in un ultimo tiro decisivo. Questa la classifica finale:
+I partecipanti sono stati suddivisi in quattro batterie. Dopo un tiro di prova sul centro del bersaglio a cinque, ogni balestriere ha scagliato quattro verrette, una per ogni bersaglio agli angoli. Al termine delle qualificazioni, sommmati i punteggi per ciascuno, il miglior punteggio di ogni blocco ha decretato i quattro finalisti, i quali si sono sfidati in un ultimo tiro decisivo.
 
 <figure class="align-center">
     <img src="/assets/images/2026/2026-csp-palio-befana-3.webp" alt="palio della Befana 2026">
@@ -41,7 +41,9 @@ I partecipanti sono stati suddivisi in quattro batterie. Dopo un tiro di prova s
   <figcaption>Balestrieri al palio della Befana 2026</figcaption>
 </figure>
 
-1) Samuele Lombardi - 30pt.
-2) Alessia Lino - 23pt.
-3) Giovanni Barsanti - 23pt.
-4) Mauro De Luca - 21pt.
+Questa la classifica finale:
+
+* 1° - Samuele Lombardi - 30pt.
+* 2° - Alessia Lino - 23pt.
+* 3° - Giovanni Barsanti - 23pt.
+* 4° - Mauro De Luca - 21pt.
