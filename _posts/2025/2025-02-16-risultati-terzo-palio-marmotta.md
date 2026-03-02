@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "⏰Stagione 2025, si riparte"
+title: "⏰ Risultati 3° Palio della Marmotta: stagione 2025, si riparte."
 categories: 
   - albo
   - conferenze
