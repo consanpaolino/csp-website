@@ -39,7 +39,7 @@ Undici squadre facenti parte della [LITAB](https://www.litab.net/) hanno gareggi
 * Secondo et meliore: **Russo Giampaolo** di CSP - Lucca
 * Terza et meliore: **Parlanti Bratrice** di Montefalco
 
-[Classifica dettagliata della VIII disfida in formato PDF](/assets/files/2025/csp-vii(2025)-disfida-della-liberta-classifica.pdf)
+[Classifica dettagliata della VIII disfida in formato PDF](/assets/files/2026/2026-csp-viii-ddl-classifica-squadre+corniolo.pdf)
 
 ## Foto del torneo della VIII Disfida della Libertà
 
