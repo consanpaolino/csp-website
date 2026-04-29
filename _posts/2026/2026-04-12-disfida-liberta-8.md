@@ -54,8 +54,8 @@ Undici squadre facenti parte della [LITAB](https://www.litab.net/) hanno gareggi
 </figure>
 
 <figure class="align-center">
-    <img src="/assets/images/2026/2026-viii-ddl-squadra-csp.jpg" alt="Squadra delle Contrade: da sinistra Russo, Lazzarin, Binchini F., Tolomei, Gonzalez, Donnarumma, Giusti">
-  <figcaption>Squadra delle Contrade: da sinistra Russo, Lazzarin, Binchini F., Tolomei, Gonzalez, Donnarumma, Giusti</figcaption>
+    <img src="/assets/images/2026/2026-viii-ddl-squadra-csp.jpg" alt="Squadra delle Contrade: da sinistra Russo, Lazzarin, Bianchini F., Tolomei, Gonzalez, Donnarumma, Giusti">
+  <figcaption>Squadra delle Contrade: da sinistra Russo, Lazzarin, Bianchini F., Tolomei, Gonzalez, Donnarumma, Giusti</figcaption>
 </figure>
 
 <figure class="align-center">
