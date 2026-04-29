@@ -37,7 +37,7 @@ Undici squadre facenti parte della [LITAB](https://www.litab.net/) hanno gareggi
 
 * Primo et meliore: **Raho Emanuele** di Terra del Sole
 * Secondo et meliore: **Russo Giampaolo** di CSP - Lucca
-* Terza et meliore: **Parlanti Bratrice** di Montefalco
+* Terza et meliore: **Parlanti Beatrice** di Montefalco
 
 [Classifica dettagliata della VIII disfida in formato PDF](/assets/files/2026/2026-csp-viii-ddl-classifica-squadre+corniolo.pdf)
 
