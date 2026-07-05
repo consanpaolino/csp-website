@@ -14,7 +14,7 @@ Oggi, domenica 5 luglio, si è svolta la quinta edizione del **Memorial** dedica
 
 <!-- more -->
 
-Per questa occasione le Contrade hanno invitato a gareggiare quattro città amiche facenti parte della [LITAB](https://www.litab.net): Assisi, Montefalco, Pisa e Terra del Sole, con le quali ci si è incontrati nella mattinata nel nostro Campo Tiri in via Pattana. Per arrivare al numero previsto di 12 balestrieri per il torneo in squadra le Contrade hanno dato in prestito alla città di Pisa i nostri Massimo Francesconi e Daniele Donnarumma, mentre invece i balestrieri di Montefalco e di Terra del Sole hanno unito le loro forze gareggiando assieme come la squadra di "Terra del Falco".
+Per questa occasione le Contrade hanno invitato a gareggiare quattro città amiche facenti parte della [LITAB](https://www.litab.net): **Assisi**, **Montefalco**, **Pisa** e **Terra del Sole**, con le quali ci si è incontrati nella mattinata nel nostro Campo Tiri in via Pattana. Per arrivare al numero previsto di 12 balestrieri per il torneo in squadra le Contrade hanno dato in prestito alla città di Pisa i nostri Massimo Francesconi e Daniele Donnarumma, mentre invece i balestrieri di *Montefalco* e di *Terra del Sole* hanno unito le loro forze gareggiando assieme sotto il nome di *"Terra del Falco"*.
 
 Nella prima gara, i 12 balestrieri di ognuna delle 4 squadre hanno tirato nel loro bersaglio designato. Le Contrade San Paolino vincono la gara totalizzando **312** punti, seguiti da Assisi con **309** punti, "Terra del Falco" con **304** punti e Pisa con **276** punti.
 
@@ -29,7 +29,7 @@ Nella prima gara, i 12 balestrieri di ognuna delle 4 squadre hanno tirato nel lo
 </figure>
 
 <figure class="align-center">
-    <img src="/assets/images/2026/2026-v-mmp-squadre-terra-del-falco_700S.webp" alt="quinto memorial terzo squadre "Terra del Falco">
+    <img src="/assets/images/2026/2026-v-mmp-squadre-terra-del-falco_700S.webp" alt="quinto memorial terzo squadre Terra del Falco">
   <figcaption>Quinto Memorial Mario Puccetti, 3° squadre "Terra del Falco"</figcaption>
 </figure>
 
@@ -70,8 +70,3 @@ Alla premiazione per le due gare era presente la famiglia di Mario Puccetti.
 Le Contrade ringraziano tutte le città che hanno risposto al nostro invito, con le quali abbiamo passato, nonostante il caldo, una piacevole giornata all'insegna dell'amicizia, sportività e grande passione per la disciplina del tiro con la balestra grande da banco.
 
 Un ringraziamento speciale va alle nostre socie 'Paoline': grazie al loro straordinario impegno e al grandissimo lavoro profuso, è stato possibile realizzare un evento conviviale di questa portata, capace di accogliere e unire circa sessanta ospiti sia a pranzo sia durante i momenti di pausa della giornata.
-
-<figure class="align-center">
-    <img src="/assets/images/2024/terzo-mmp-1st-corniolo-bianchini-francesco.webp" alt="terzo memorial mario puccetti primo al corniolo francesco bianchini">
-  <figcaption>Terzo Memorial Mario Puccetti - Primo al corniolo: Francesco Bianchini (ACSP)</figcaption>
-</figure>
