@@ -69,4 +69,4 @@ Alla premiazione per le due gare era presente la famiglia di Mario Puccetti.
 
 Le Contrade ringraziano tutte le città che hanno risposto al nostro invito, con le quali abbiamo passato, nonostante il caldo, una piacevole giornata all'insegna dell'amicizia, sportività e grande passione per la disciplina del tiro con la balestra grande da banco.
 
-Un ringraziamento speciale va alle nostre socie 'Paoline': grazie al loro straordinario impegno e al grandissimo lavoro profuso, è stato possibile realizzare un evento conviviale di questa portata, capace di accogliere e unire circa sessanta ospiti sia a pranzo sia durante i momenti di pausa della giornata.
+Un ringraziamento speciale di cuore va alle nostre socie **'Paoline'**: grazie al loro straordinario impegno e al grandissimo lavoro profuso, è stato possibile realizzare un evento conviviale di questa portata, capace di accogliere e unire circa sessanta ospiti sia a pranzo sia durante i momenti di pausa della giornata.
