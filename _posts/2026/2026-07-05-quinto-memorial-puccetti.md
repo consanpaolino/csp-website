@@ -37,21 +37,21 @@ Nella prima gara, i 12 balestrieri di ognuna delle 4 squadre hanno tirato nel lo
 
 <figure class="align-center">
     <img src="/assets/images/2026/2026-v-mmp-squadre-contrade_700S.webp" alt="quinto memorial mario puccetti primo squadre contrade">
-  <figcaption>Quinto Memorial Mario Puccetti, 1° squadra Contrade</figcaption>
+  <figcaption>Quinto Memorial Mario Puccetti, 1ª squadra classificata Contrade</figcaption>
 </figure>
 
 <figure class="align-center">
     <img src="/assets/images/2026/2026-v-mmp-squadre-assisi_700S.webp" alt="quinto memorial secondo squadre Assisi">
-  <figcaption>Quinto Memorial Mario Puccetti, 2° squadra Assisi</figcaption>
+  <figcaption>Quinto Memorial Mario Puccetti, 2ª squadra classificata Assisi</figcaption>
 </figure>
 
 <figure class="align-center">
     <img src="/assets/images/2026/2026-v-mmp-squadre-terra-del-falco_700S.webp" alt="quinto memorial terzo squadre Terra del Falco">
-  <figcaption>Quinto Memorial Mario Puccetti, 3° squadra Terra del Falco</figcaption>
+  <figcaption>Quinto Memorial Mario Puccetti, 3ª squadra classificata Terra del Falco</figcaption>
 </figure>
 
 Nella seconda gara di tiro individuale al corniolo, tutti i balestrieri di entrambe le città hanno gareggiato mirando al medesimo bersaglio per il miglior tiro.
-Qui di seguito la classifica finale dove **Lucca** si aggiudica il *1° ed il 2° posto*, seguita da **Assisi** il *con il 3° posto*:
+Qui di seguito la classifica finale dove **Lucca** si aggiudica il *1° ed il 2° posto*, seguita da **Assisi** *con il 3° posto*:
 
 * *Primo et meliore*: **Gianluca Bertolucci**, Contrade San Paolino
 * *Secondo et meliore*: **Mauro Giusti**, Contrade San Paolino
@@ -59,17 +59,17 @@ Qui di seguito la classifica finale dove **Lucca** si aggiudica il *1° ed il 2�
 
 <figure class="align-center">
     <img src="/assets/images/2026/2026-v-mmp-corniolo-gianluca-bertolucci_700S.webp" alt="quinto memorial mario puccetti primo corniolo gianluca bertolucci">
-  <figcaption>Quinto Memorial Mario Puccetti, 1° corniolo Gianluca Bertolucci</figcaption>
+  <figcaption>Quinto Memorial Mario Puccetti, 1° al corniolo Gianluca Bertolucci</figcaption>
 </figure>
 
 <figure class="align-center">
     <img src="/assets/images/2026/2026-v-mmp-corniolo-mauro-giusti_700S.webp" alt="quinto memorial secondo corniolo Mauro Giusti">
-  <figcaption>Quinto Memorial Mario Puccetti, 2° corniolo Mauro Giusti</figcaption>
+  <figcaption>Quinto Memorial Mario Puccetti, 2° al corniolo Mauro Giusti</figcaption>
 </figure>
 
 <figure class="align-center">
     <img src="/assets/images/2026/2026-v-mmp-corniolo-nereo-tanci_700S.webp" alt="quinto memorial terzo corniolo Nereo Tanci">
-  <figcaption>Quinto Memorial Mario Puccetti, 3° corniolo Nereo Tanci</figcaption>
+  <figcaption>Quinto Memorial Mario Puccetti, 3° al corniolo Nereo Tanci</figcaption>
 </figure>
 
 <figure class="align-center">
