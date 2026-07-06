@@ -16,9 +16,11 @@ Oggi, domenica 5 luglio, si è svolta la quinta edizione del **Memorial** dedica
 
 Per questa occasione le Contrade hanno invitato a gareggiare quattro città facenti parte della [LITAB](https://www.litab.net): **Assisi**, **Montefalco**, **Pisa** e **Terra del Sole**, con le quali ci si è incontrati nella mattinata nel nostro Campo Tiri in via Pattana. Le città di *Montefalco* e di *Terra del Sole* hanno unito le loro forze gareggiando assieme sotto il nome di *"Terra del Falco"* per arrivare al numero previsto di 12 balestrieri.
 
+## Classifica gara a squadre
+
 Nella prima gara, i 12 balestrieri di ognuna delle 4 squadre hanno tirato nel loro bersaglio designato. Le Contrade San Paolino vincono la gara totalizzando **312** punti, seguiti da Assisi con **309** punti, "Terra del Falco" con **304** punti e Pisa con **276** punti.
 
-## Classifica tiri **Contrade** nella gara a squadre
+### Classifica tiri **Contrade** nella gara a squadre
 
 | **#** | **Squadra**              | **Punteggio** |
 |:-----:|--------------------------|---------------|
@@ -49,6 +51,8 @@ Nella prima gara, i 12 balestrieri di ognuna delle 4 squadre hanno tirato nel lo
     <img src="/assets/images/2026/2026-v-mmp-squadre-terra-del-falco_700S.webp" alt="quinto memorial terzo squadre Terra del Falco">
   <figcaption>Quinto Memorial Mario Puccetti, 3ª squadra classificata Terra del Falco</figcaption>
 </figure>
+
+## Classifica gara individuale al corniolo
 
 Nella seconda gara di tiro individuale al corniolo, tutti i balestrieri di entrambe le città hanno gareggiato mirando al medesimo bersaglio per il miglior tiro.
 Qui di seguito la classifica finale dove **Lucca** si aggiudica il *1° ed il 2° posto*, seguita da **Assisi** *con il 3° posto*:
