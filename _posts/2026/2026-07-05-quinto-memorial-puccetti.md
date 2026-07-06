@@ -81,6 +81,8 @@ Qui di seguito la classifica finale dove **Lucca** si aggiudica il *1Â° ed il 2Â
   <figcaption>Quinto Memorial Mario Puccetti, foto di gruppo maestri d'arme</figcaption>
 </figure>
 
+## Ringraziamenti
+
 Alla premiazione per le due gare era presente la famiglia di Mario Puccetti.
 
 <figure class="align-center">
