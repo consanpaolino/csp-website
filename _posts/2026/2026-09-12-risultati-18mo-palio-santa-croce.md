@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "🎯 18° Palio della Santa Croce: risultati"
+title: "🏆 18° Palio della Santa Croce: 5ª vittoria consecutiva"
 image: /assets/images/2026/2026-psc18-soci.jpg
 categories: 
   - albo
@@ -25,8 +25,8 @@ Alla fine della gara, tolte tutte le verrette una per una dal corniolo, alla pre
 
 * Primo et Meliore: **Giovanni Barsanti** (CSP)
 * Secondo et Meliore: *Giovanni Pennucci* (CBL)
-* Terzo et Meliore: *Jenny Bianchini* (CSP)
-* Quarta et Meliore: *Daniele Donnarumma* (CSP)
+* Terza et Meliore: *Jenny Bianchini* (CSP)
+* Quarto et Meliore: *Daniele Donnarumma* (CSP)
 
 Alla premiazione era presente l’Assessora con delega alla cultura e ai musei *Mia Pisano*, ed il consigliere delegato alle tradizioni storiche *Lorenzo Del Barga*.
 
@@ -35,13 +35,15 @@ Alla premiazione era presente l’Assessora con delega alla cultura e ai musei *
   <figcaption>18mo palio santa croce vincitori: Donnarumma(4º), Barsanti(1º), Bianchini(3ª), Pennucci(2º)</figcaption>
 </figure>
 
-Dal 2022 ossia:
+Dal 2022, e precisamente:
 
-* il [25 settembre 2022](/2022/risultati-palio-santa-croce) per il 14° Palio;
-* e il [3 settembre 2023](/2023/risultati-15mo-palio-santa-croce) per il 15° Palio;
-* e il [14 settembre 2024](/2024/risultati-16mo-palio-santa-croce) per il 16° Palio;
-* e il [14 settembre 2025](/2025/risultati-17mo-palio-santa-croce) per il 17 Palio.
+* il [25 settembre 2022](/2022/risultati-palio-santa-croce) (14° Palio);
+* il [3 settembre 2023](/2023/risultati-15mo-palio-santa-croce) (15° Palio);
+* il [14 settembre 2024](/2024/risultati-16mo-palio-santa-croce) (16° Palio);
+* il [14 settembre 2025](/2025/risultati-17mo-palio-santa-croce) (17° Palio);
 
 grazie alla verretta di Giovanni Barsanti le Contrade di San Paolino si aggiudicano il Palio per la 5ª volta consecutiva.
+
+Si ringrazia Andrea Useli per le foto 📸
 
 {% youtube "https://youtu.be/6_F2ldHVjR0" %}
